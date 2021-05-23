@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivamshopping/static/css/main.c18255fb.chunk.css",
+    "main.js": "/shivamshopping/static/js/main.4c02cff7.chunk.js",
+    "main.js.map": "/shivamshopping/static/js/main.4c02cff7.chunk.js.map",
+    "runtime-main.js": "/shivamshopping/static/js/runtime-main.d9a152f5.js",
+    "runtime-main.js.map": "/shivamshopping/static/js/runtime-main.d9a152f5.js.map",
+    "static/js/2.db82e1a0.chunk.js": "/shivamshopping/static/js/2.db82e1a0.chunk.js",
+    "static/js/2.db82e1a0.chunk.js.map": "/shivamshopping/static/js/2.db82e1a0.chunk.js.map",
+    "static/js/3.c62a1259.chunk.js": "/shivamshopping/static/js/3.c62a1259.chunk.js",
+    "static/js/3.c62a1259.chunk.js.map": "/shivamshopping/static/js/3.c62a1259.chunk.js.map",
+    "index.html": "/shivamshopping/index.html",
+    "static/css/main.c18255fb.chunk.css.map": "/shivamshopping/static/css/main.c18255fb.chunk.css.map",
+    "static/js/2.db82e1a0.chunk.js.LICENSE.txt": "/shivamshopping/static/js/2.db82e1a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a152f5.js",
+    "static/js/2.db82e1a0.chunk.js",
+    "static/css/main.c18255fb.chunk.css",
+    "static/js/main.4c02cff7.chunk.js"
+  ]
+}
